@@ -3,9 +3,9 @@
 // Copyright (c) 2018 Andrzej Grabowski. All rights reserved.
 //
 
-/*RomanNumber.h*/#import <Foundation/Foundation.h>
-
+#import <Foundation/Foundation.h>
 @interface RomanNumber: NSObject
+@property (readonly) NSString* romanString;
 - (NSUInteger) intValue;
 - (id) initWithString: (NSString *)string;
 - (id) initWithValue: (NSUInteger)value;
