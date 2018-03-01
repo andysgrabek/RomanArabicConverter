@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "58A6FCF2FD72C7D4B121C3B5"
+               BuildableName = "RomanArabicConverter"
+               BlueprintName = "RomanArabicConverter"
+               ReferencedContainer = "container:RomanArabicConverter.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "58A6FCF2FD72C7D4B121C3B5"
+            BuildableName = "RomanArabicConverter"
+            BlueprintName = "RomanArabicConverter"
+            ReferencedContainer = "container:RomanArabicConverter.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
