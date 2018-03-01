@@ -5,8 +5,7 @@
 //  Created by Andrzej Grabowski on 28/02/2018.
 //  Copyright © 2018 Andrzej Grabowski. All rights reserved.
 //
-
-#import <Foundation/Foundation.h>
+/*main.m*/#import <Foundation/Foundation.h>
 #import "RomanNumber.h"
 
 int main(int argc, const char * argv[]) {
