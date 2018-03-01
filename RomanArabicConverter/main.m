@@ -6,9 +6,7 @@
 //  Copyright © 2018 Andrzej Grabowski. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 #import "RomanNumber.h"
-
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         NSLog(@"%@", [[[RomanNumber alloc] initWithValue:329] stringValue]);
