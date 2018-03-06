@@ -4,10 +4,13 @@
 //
 
 #import <Foundation/Foundation.h>
+
 @interface RomanNumber: NSObject
+
 @property (readonly) NSString* romanString;
 - (NSUInteger) intValue;
 - (id) initWithString: (NSString *)string;
 - (id) initWithValue: (NSUInteger)value;
 - (NSString *) stringValue;
+
 @end
